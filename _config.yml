@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: ''
 avatar: 'assets/images/avatar255x287.png'
 #disqus: 'demowebsite'
-email: 'wenchiehlee1020@gmail.com'
+email: 'andylee8345@gmail.com'
 
 include: ["_pages"]
 permalink: /:title/
@@ -33,7 +33,7 @@ jekyll-archives:
   
 authors:
     Andy:
-      name:           Wen-Chieh-Lee
+      name:           Andy
       site:           https://andylee-me.github.io/
       avatar:         /assets/images/avatar255x287.png
       bio:            "Senior Software Architect"
