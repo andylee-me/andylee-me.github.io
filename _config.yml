@@ -1,7 +1,7 @@
 # Site
-name: 'Working Space for wjlee'
-title: "Working space for wjlee"
-description: 'Working space for wjlee'
+name: 'Working Space for Andy'
+title: "Working space for Andy"
+description: 'Working space for Andy'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -32,12 +32,12 @@ jekyll-archives:
     category: '/category/:name/'
   
 authors:
-    wjlee:
+    Andy:
       name:           Wen-Chieh-Lee
-      site:           https://wjlee-barco.github.io/
+      site:           https://andylee-me.github.io/
       avatar:         /assets/images/avatar255x287.png
       bio:            "Senior Software Architect"
-      email:          wenchiehlee1020@gmail.com
+      email:          andylee8345@gamil.com
  
 # Defaults
 defaults:
@@ -47,7 +47,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: wjlee
+      author: Andy
       avatar: /assets/images/avatar255x287.png
       
   # all pages
