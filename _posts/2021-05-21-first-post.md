@@ -1,8 +1,7 @@
 ---
-title:  "2021-05-21-first-post"
+title:  "First post"
 metadate: "2021-05-21 21:40:10"
 categories: ["homework for school", "school schedule"]
-image: "/assets/images/11.04.2021_19.07.45_REC.png"
 visit:
 tags: [featured]
 featured: true
