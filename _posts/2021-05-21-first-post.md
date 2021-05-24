@@ -20,10 +20,3 @@ author: Andy
 
 ## [毛巾工程師](https://www.youtube.com/channel/UC6kh50A4TMslBLMnv0MeArw)
 
-<div id="MyBlog">
-  <span id="title">部落格</span>
-
-<a target="_blank" href="http://www.dribs-drabs.com/blog">Dribs & Drabs</a>
-
-</div>
-
