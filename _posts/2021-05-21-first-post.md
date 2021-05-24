@@ -22,4 +22,4 @@ author: Andy
 
 ## [![Alt Text](https://img.shields.io/badge/-%E7%BE%8E%E5%8C%96%E9%80%A3%E7%B5%90-informational)](https://shields.io/category/build)
 
-## [![Alt Text](https://img.shields.io/badge/-%E5%9C%96%E7%89%87%E5%8A%A0%E9%80%A3%E7%B5%90-informational)](https://toby.logdown.com/posts/216691/markdown-image-with-link-syntax)
+## [![Alt Text](https://img.shields.io/badge/-%E5%9C%96%E7%89%87%E5%8A%A0%E9%80%A3%E7%B5%90-informational)](http://toby.logdown.com/posts/216691/markdown-image-with-link-syntax)
