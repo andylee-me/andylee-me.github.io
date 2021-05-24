@@ -16,7 +16,7 @@ author: Andy
 
 ## [![Alt Text](https://img.shields.io/badge/-avatarx%20(png)-informational)](https://avatarx.netlify.app/)
 
-## [![Alt Text](https://img.shields.io/badge/-%E6%AF%9B%E5%B7%BE%E5%B7%A5%E7%A8%8B%E5%B8%AB-informational)](https://www.youtube.com/channel/UC6kh50A4TMslBLMnv0MeArw)
+## [![Alt Text](https://img.shields.io/badge/-%E6%AF%9B%E5%B7%BE%E5%B7%A5%E7%A8%8B%E5%B8%AB%20youtube-informational)](https://www.youtube.com/channel/UC6kh50A4TMslBLMnv0MeArw)
 
 ## [![Alt Text](https://img.shields.io/badge/-Markdown%20%E8%AA%9E%E6%B3%95%E8%AA%AA%E6%98%8E-informational)](https://markdown.tw/)
 
