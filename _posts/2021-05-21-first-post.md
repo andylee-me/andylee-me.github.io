@@ -21,3 +21,5 @@ author: Andy
 ## [![Alt Text](https://img.shields.io/badge/-Markdown%20%E8%AA%9E%E6%B3%95%E8%AA%AA%E6%98%8E-informational)](https://markdown.tw/)
 
 ## [![Alt Text](https://img.shields.io/badge/-%E7%BE%8E%E5%8C%96%E9%80%A3%E7%B5%90-informational)](https://shields.io/category/build)
+
+## [![Alt Text](https://img.shields.io/badge/-%E5%9C%96%E7%89%87%E5%8A%A0%E9%80%A3%E7%B5%90-informational)](https://toby.logdown.com/posts/216691/markdown-image-with-link-syntax)
