@@ -8,7 +8,7 @@ featured: true
 author: Andy
 ---
 
-#### This is my first post,so what I have done is basis.
+#### This is my first post,so what I have done is basic,is there have any not good enough,please forgive me.
 
 # NEW learn
 
