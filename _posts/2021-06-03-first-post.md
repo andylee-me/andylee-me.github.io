@@ -3,7 +3,7 @@ title:  "Python"
 metadate: "2021-06-03 21:40:10"
 categories: ["homework", "my schedule"]
 visit:
-tags: [featured]
+tags: [featurd]
 featured: true
 author: Andy
 ---
