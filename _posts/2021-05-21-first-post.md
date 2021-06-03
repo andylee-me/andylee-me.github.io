@@ -1,7 +1,7 @@
 ---
 title:  "First post"
 metadate: "2021-05-21 21:40:10"
-categories: ["homework", "my schedule"]
+categories: ["work", "schedule"]
 visit:
 tags: [featured]
 featured: true
