@@ -1,7 +1,7 @@
 ---
 title:  "Python"
 metadate: "2021-06-03 21:40:10"
-categories: ["homework", "my schedule"]
+categories: ["homeork", "myschedule"]
 visit:
 tags: [featured]
 featured: true
