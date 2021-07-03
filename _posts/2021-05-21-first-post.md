@@ -22,4 +22,3 @@ author: Andy
 * [![Alt Text](https://img.shields.io/badge/-%E7%BE%8E%E5%8C%96%E9%80%A3%E7%B5%90-informational)](https://shields.io/category/build) : A website that can make pretty link photo.
 * [![Alt Text](https://img.shields.io/badge/-%E5%9C%96%E7%89%87%E5%8A%A0%E9%80%A3%E7%B5%90-informational)](http://toby.logdown.com/posts/216691/markdown-image-with-link-syntax) : A website that teach me how to make my photo have link in it.
 
-![Untitled Diagram (1)](https://user-images.githubusercontent.com/60034043/124348680-e7707000-dc1d-11eb-9532-54b2a17fd782.png)
