@@ -100,7 +100,7 @@ jekyll-spaceship:
       code: 'mermaid!'
       custom: ['@startmermaid', '@endmermaid']
     config:
-      theme: null
+      theme: jekyll-theme-minimal
     src: https://mermaid.ink
   video-processor:
     default:
