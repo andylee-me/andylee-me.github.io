@@ -8,4 +8,4 @@ featured: true
 author: Andy
 ---
 
-<img src="[https://your-image-url.type](https://datajourney.akvo.org/hs-fs/hubfs/Screen%20Shot%202020-07-28%20at%2012.08.42.png?width=1094&name=Screen%20Shot%202020-07-28%20at%2012.08.42.png)" width="50%" height="50%">
+![image]([https://your-image-url.type](https://datajourney.akvo.org/hs-fs/hubfs/Screen%20Shot%202020-07-28%20at%2012.08.42.png?width=1094&name=Screen%20Shot%202020-07-28%20at%2012.08.42.png))
