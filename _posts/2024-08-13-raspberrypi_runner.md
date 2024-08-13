@@ -8,4 +8,4 @@ featured: true
 author: Andy
 ---
 
-## SO the thing is..I create a runner by raspberry pi5
+### 我使用了raspberry pi5來製作了一個runner，並且成功讓此runner在github上回報raspberry的溫度。(如下圖)
